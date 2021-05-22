@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Lucida Sans' sans-serif;
+    color: crimson;
+    text-align: center;
+}
+.flex{
+    display: grid;
+    grid-template-columns: 10% 90%;
+}
+form{
+    margin-top: 50px;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
